@@ -23,7 +23,7 @@ The Challenges I faced is utilizing the webkit, custom element, and Mobile First
 
 ### Screenshot
 
-  ![Desktop Preview](./screenshots/desktop-vie.png)
+  ![Desktop Preview](./screenshots/desktop-view.png)
 
   ![Mobile Preview](./screenshots/mobile-view.png)
 
